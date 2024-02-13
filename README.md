@@ -1,7 +1,3 @@
-Creating a superb README.md file for your project can greatly enhance its presentation and attract more users or contributors. Below is a template for your project's README.md file:
-
----
-
 # Simple Calculator
 
 Welcome to the Simple Calculator project! This Python application allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division through a user-friendly command-line interface.
