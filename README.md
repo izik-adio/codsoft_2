@@ -48,4 +48,4 @@ This project was inspired by [CodSoft](https://www.codsoft.in/).
 
 ## Contact
 
-For any inquiries or feedback, please contact [izik](https://github.com/izik-adio).
+For any questions, feedback, or suggestions, please feel free to reach out to [izik adio](https://www.linkedin.com/in/izik-adio/).
