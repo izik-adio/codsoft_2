@@ -1,3 +1,4 @@
+import os
 from utilities import Operations
 
 perform_calculation = True
@@ -6,6 +7,7 @@ print("Welcome to the Simple Calculator!")
 
 
 def perform_calculation():
+    os.system("cls" if os.name == "nt" else "clear")
     numbers = []
     options = ["a", "b", "c", "d"]
 
