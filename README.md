@@ -1,3 +1,5 @@
+![Cover Image](./2.png)
+
 # Simple Calculator
 
 Welcome to the Simple Calculator project! This Python application allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division through a user-friendly command-line interface.
